@@ -9,7 +9,7 @@ env:
   LOCATION: southeastasia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: e0cf6f7c-4b22-45d4-88fc-e1413afb904b
-  WEBAPP-NAME: eshoponweb-webapp-waynek
+  WEBAPP-NAME: webapp-waynek
 
 jobs:
   #Build, test and publish .net web project in repository
